@@ -76,7 +76,7 @@
 
 
 
-### 👥 User Profile
+### User Profile
 
  -  Each user can:
 
@@ -88,7 +88,7 @@
 
 
 
-## 💡 Tech Stack
+## Tech Stack
 
  - Backend: Spring Boot
 
@@ -116,7 +116,7 @@
 
 
 
-### 🛠️ Steps
+### Steps
 
   - Start MySQL via XAMPP
 
@@ -188,14 +188,13 @@ Checkout with address selection
 
 
 
-🔐 Login/Register
+ Login/Register
 
 <img width="1366" height="682" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/6f83ad69-3d83-4a3c-a437-b9ba9ac01d5b" />
 
 
 
-
-🧑‍💼 Admin dashboard
+ Admin dashboard
 
 <img width="1366" height="692" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/30f659c5-ae43-4dee-b268-83e5805d3a2c" />
 
@@ -212,7 +211,7 @@ add product
 
 
 
-## 📌 Project Wrap-Up
+## Project Wrap-Up
 
 
 This project was developed as a graduation project by a dedicated team.
