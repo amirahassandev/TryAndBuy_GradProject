@@ -1,10 +1,10 @@
-#🎓 Try&Buy – Graduation Project (A+)
+# Try&Buy – Graduation Project (A+)
 "وَقُلْ رَبِّ زِدْنِي عِلْمًا" – الحمد لله الذي بنعمته تتم الصالحات.
  - Proud to share our graduation project Try&Buy, built by a great team, and awarded an A+ with an Excellent graduation grade.
 
 
 
-## 🛍️ About the Project
+## About the Project
  - Try&Buy is a modern E-commerce web application that allows users to shop for clothing products with an interactive and personalized experience — including Virtual Try-On, secure purchasing, and full account tracking.
 
 - Developed using Spring Boot (backend) and Native JavaScript (frontend).
