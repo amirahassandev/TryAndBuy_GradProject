@@ -1,13 +1,13 @@
 #🎓 Try&Buy – Graduation Project (A+)
 "وَقُلْ رَبِّ زِدْنِي عِلْمًا" – الحمد لله الذي بنعمته تتم الصالحات.
-Proud to share our graduation project Try&Buy, built by a great team, and awarded an A+ with an Excellent graduation grade.
+ - Proud to share our graduation project Try&Buy, built by a great team, and awarded an A+ with an Excellent graduation grade.
 
 
 
 ## 🛍️ About the Project
-Try&Buy is a modern E-commerce web application that allows users to shop for clothing products with an interactive and personalized experience — including Virtual Try-On, secure purchasing, and full account tracking.
+ - Try&Buy is a modern E-commerce web application that allows users to shop for clothing products with an interactive and personalized experience — including Virtual Try-On, secure purchasing, and full account tracking.
 
-Developed using Spring Boot (backend) and Native JavaScript (frontend).
+- Developed using Spring Boot (backend) and Native JavaScript (frontend).
 
 
 
@@ -16,97 +16,89 @@ Developed using Spring Boot (backend) and Native JavaScript (frontend).
 
 
 
-### 📄 On the Product Details Page, users can:
+### On the Product Details Page, users can:
+ - Select Size
 
+ - Choose Quantity
 
-####🧵 Select Size
+ - View Multiple Designs
 
-#### 🔢 Choose Quantity
-
-#### 🎨 View Multiple Designs
-
-#### 💬 Read Comments/Reviews
+ - Read Comments/Reviews
 
 
 
 ### Click "Try On" to:
+ - Upload their photo
 
-
-#### Upload their photo
-
-#### Preview how the T-shirt looks on them (Virtual Try-On)
-
-
-
-### 🚚 Checkout:
-
-
-#### Select a delivery location
-
-#### Place order securely
+ - Preview how the T-shirt looks on them (Virtual Try-On)
 
 
 
-### 📦 Order History:
+### Checkout:
+
+ - Select a delivery location
+
+ - Place order securely
 
 
-#### View past orders and delivery info from their personal profile
+
+### Order History:
+
+ - View past orders and delivery info from their personal profile
 
 
 
-### 🔐 Authentication & Authorization
-#### Secure Login/Signup
+### Authentication & Authorization
+ - Secure Login/Signup
 
 
 
 ### Role-based access:
 
+ - Regular Users
 
-#### 👤 Regular Users
-
-#### 🧑‍💼 Admins (full control)
-
+ - Admins (full control)
 
 
 
-### 🧑‍💼 Admin Dashboard
 
-#### Admins can:
+### Admin Dashboard
 
-➕ Add products
+ - Admins can:
 
-✏️ Edit product details
+   - Add products
 
-❌ Delete products
+   - Edit product details
 
-🖼️ Manage product images and content
+   - Delete products
+
+   - Manage product images and content
 
 
 
 ### 👥 User Profile
 
+ -  Each user can:
 
-#### Each user can:
+    - Track their order history
 
--> Track their order history
+    - Manage saved delivery address
 
--> Manage saved delivery address
-
--> View Try-On history 
+    - View Try-On history 
 
 
 
 ## 💡 Tech Stack
 
--> Backend: Spring Boot
+ - Backend: Spring Boot
 
--> Frontend: Native JavaScript, HTML, CSS
+ - Frontend: Native JavaScript, HTML, CSS
 
--> Security: Spring Security (Authentication & Authorization)
+ - Security: Spring Security (Authentication & Authorization)
 
--> Virtual Try-On: Custom image overlay logic
+ - Virtual Try-On: Custom image overlay logic
 
--> Database: MySQL (shop) via phpMyAdmin
+ - Database: MySQL (shop) via phpMyAdmin
 
 
 
@@ -114,24 +106,24 @@ Developed using Spring Boot (backend) and Native JavaScript (frontend).
 ## How to Run
 
 
-### 🔧 Requirements
+ - Requirements
 
- Java 17+
+    - Java 17+
 
- MySQL (phpMyAdmin)
+    - MySQL (phpMyAdmin)
 
- VS Code
+    - VS Code
 
 
 
 ### 🛠️ Steps
 
- Start MySQL via XAMPP
+  - Start MySQL via XAMPP
 
- Create a database named shop in phpMyAdmin
+  - Create a database named shop in phpMyAdmin
 
 
- #### In application.properties, make sure:
+  - In application.properties, make sure:
   properties
     spring.datasource.url=jdbc:mysql://localhost:3306/shop
     spring.datasource.username=root
@@ -139,7 +131,7 @@ Developed using Spring Boot (backend) and Native JavaScript (frontend).
     spring.jpa.hibernate.ddl-auto=update
 
 
-#### Run backend using:
+  - Run backend using:
 
 ./mvnw spring-boot:run
 
@@ -150,7 +142,7 @@ Open frontend by launching login.html in browser or with Live Server.
 
 
 
-🎥 Demo Video
+Demo Video
  
 https://github.com/user-attachments/assets/7054e9ff-0f83-4b62-9c97-137af25e0e42
 
@@ -159,28 +151,28 @@ https://github.com/user-attachments/assets/7054e9ff-0f83-4b62-9c97-137af25e0e42
 
 
 
-👤 User Profile
+User Profile
 
 <img width="1366" height="684" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/5885453f-6ad9-4fef-a9ce-a08b9fe4ada9" />
 
 
 
 
-🛍️ Product listing
+Product listing
 
 <img width="1366" height="722" alt="TryAndBuy" src="https://github.com/user-attachments/assets/4adb8325-32d8-4553-af37-41541fb00c63" />
 
 
 
 
-📄 Product details (size, quantity, styles)
+Product details (size, quantity, styles)
 
 <img width="1366" height="725" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/5724862a-463c-4863-a06c-de24da1507e2" />
 
 
 
 
-🧪 Try-On result
+Try-On result
 
 <img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/7a1ae2c5-68a7-4e95-acd6-fd46b71c87b5" />
 <img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/189da59c-d58c-4260-ade6-ddee711816de" />
@@ -188,7 +180,7 @@ https://github.com/user-attachments/assets/7054e9ff-0f83-4b62-9c97-137af25e0e42
 
 
 
-📦 Checkout with address selection
+Checkout with address selection
 
 <img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/bf6f6657-2306-4faa-8660-6b543e3b8996" />
 <img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/8396eca1-38a0-4025-9af0-d71a93917488" />
